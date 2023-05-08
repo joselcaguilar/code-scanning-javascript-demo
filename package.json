@@ -18,7 +18,7 @@
   ],
   "devDependencies": {
     "rimraf": "^2.2.8",
-    "standard": "^4.5.4",
+    "standard": "^17.0.0",
     "tape": "^3.0.0"
   },
   "scripts": {

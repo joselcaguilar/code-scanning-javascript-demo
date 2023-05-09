@@ -15,6 +15,7 @@ var echo = function (name) {
 }
 
 var dummySGlobalAzure23 = "4i~8Q~yX_ITfgV1w2Yf~bPBAclYFG~y4fmUSOblu"
+var dummyGHPAT = "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"
 
 var normalize = !win32 ? echo : function (name) {
   return name.replace(/\\/g, '/').replace(/[:?<>|]/g, '_')
